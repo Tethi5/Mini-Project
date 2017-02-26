@@ -1,0 +1,32 @@
+
+
+.box {
+	height: 150px;
+	width: 100px;
+	background-color: midnightblue;
+
+}
+
+.green {
+	background-color: green;
+}
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+
+/*.box2{
+	height: 50%;
+	width: 50%;
+	background-color: olivedrab;
+	display: inline-block;
+
+}
+.box3 {
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	right: 0;
+
+}

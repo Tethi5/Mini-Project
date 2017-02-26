@@ -1,0 +1,82 @@
+body {
+	/*padding: 20px 20px 20px 20px;
+*/
+padding: 0px;
+margin: 0px;
+}
+.topbox {
+	height: 75px;
+	max-width: 100vw;
+	width: 50%;
+	background-color: #D0021B;
+	float: left;
+	vertical-align: top;
+	margin-left: 10px;
+	margin-right:10px;
+	margin-top: 10px;
+
+}
+.boxes {
+	height: 200px;
+	width: 100vw;
+	background-color: #D0021B;
+	float: left;
+	vertical-align: top;
+	margin-left: 10px;
+
+}
+.boxes2 {
+	height: 200px;
+	width: 100vw;
+	background-color: #D0021B;
+	float: left;
+	vertical-align: top;
+	padding-left: 35vw;
+	margin-right: 10px;
+}
+.bottom1 {
+	height: 100px;
+  max-width: 100vw;
+	width: 60vw;
+	background-color: #4A90E2;
+	vertical-align: bottom;
+	float: left;
+	/*padding-right: 17%;*/
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.bottom2 {
+	height: 100px;
+  max-width: 100vw;
+	width: 38%;
+	background-color: #D0021B;
+	vertical-align: bottom;
+	float: left;
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+
+}
+.inside-box {
+	height: 100px;
+	max-width: 80%;
+	width: 70%;
+	background-color: #4A4A4A;
+	vertical-align: bottom;
+	float: right;
+}
+.blue {
+	background-color: #4A90E2;
+}
+.grey {
+	background-color: #4A4A4A;
+}
+.row {
+	display: inline-flex;
+	justify-content: center;
+	width: 100vw;
+}
+.jargen {
+	height: 50%;
+	width: 100vw;
+}

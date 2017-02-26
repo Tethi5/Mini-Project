@@ -1,0 +1,35 @@
+* {
+	background-color: #FFFFF0;
+
+}
+.heading {
+	text-align: center;
+}
+.maroon {
+	background-color: #800000
+}
+.grey {
+	background-color: grey;
+}
+.col-1 {
+	height: 400px;
+	width: 200px;
+	background-color: #800000;
+	border-style: outset;
+	float: left;
+	padding: 10px;
+}
+.words {
+	background-color: #800000;
+}
+.words-2 {
+	background-color: grey;
+}
+.col-2 {
+	height: 400px;
+	width: 200px;
+	background-color: grey;
+	border-style: outset;
+	float: left;
+	padding: 10px;
+}

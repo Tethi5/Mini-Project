@@ -1,0 +1,39 @@
+.layer-1 {
+	height: calc(100%/9);
+	width: 100%;
+	background-color: #D8D8D8;
+	padding: 10px 20px;
+}
+.box {
+	height: 60px;
+	width: 60px;
+	background-color: #4A90E2;
+
+}
+.layer-2 {
+	height: calc(100%/3.5);
+	width: 100%;
+	background-color: white;
+	padding: 50px 0;
+	text-align: left;
+}
+.layer-3 {
+	height: calc(100%/7);
+	width: 100%;
+	background-color: #4A90E2;
+}
+.layer-4 {
+	height: calc(100%/7);
+	width: 100%;
+	background-color: #50E3C2;
+}
+.layer-5 {
+	height: calc(100%/7);
+	width: 100%;
+	background-color: #B8E986;
+}
+.layer-6 {
+	height: calc(100%/7);
+	width: 100%;
+	background-color: #F8E71C;
+}

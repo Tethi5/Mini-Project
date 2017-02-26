@@ -1,0 +1,82 @@
+
+.uniform {
+	margin-left: 15vw;
+	margin-right: 15vw;
+	align-items: center;
+}
+.header {
+	float: right;
+	margin-right: 85px;
+}
+
+.rigid {
+	height: 40vh;
+	width: 45vw;
+	float: left;
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	vertical-align: middle;
+
+}
+.logo {
+	height: 160px;
+	width: 130px;
+
+}
+.col-1 {
+	height: 300px;
+	width: 100px;
+	line-height: 50px;
+	float: left;
+	padding-right: calc(100%/4);
+	padding-left: 5vw;
+}
+.col-2{
+	height: 300px;
+	width: 100px;
+	line-height: 50px;
+	float: left;
+	padding-right: calc(100%/4);
+}
+.col-3 {
+	height: 300px;
+	width: 100px;
+	line-height: 50px;
+	float: left;
+	padding-right: calc(100%/4);
+}
+.col-4 {
+	height: 300px;
+	width: 100px;
+	line-height: 20px;
+	float: left;
+	padding-right: calc(100%/4);
+}
+.footer {
+	height: 0vh;
+	width: 65vw;
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: .05px;
+	margin: 10px;
+	margin-top: 80vh;
+	text-align: center;
+}
+.terms1 {
+display: inline;
+margin-left: -40px;
+margin-right: 10px;
+color: blue;
+}
+.terms2 {
+display: inline;
+color: blue;
+}
+.space {
+	margin-top:30px;
+}
+.space2 {
+	margin-top: 40px;
+}

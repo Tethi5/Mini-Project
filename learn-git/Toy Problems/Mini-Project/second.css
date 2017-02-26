@@ -1,0 +1,35 @@
+.col-1 {
+	height: 100vh;
+	width: calc(100%/3);
+	background-color: #4A90E2;
+	float: left;
+
+}
+
+.col-2 {
+	height: 100vh;
+	width: calc(100%/3);
+	background-color: #50E3C2;
+	float: left;
+
+}
+
+.col-3 {
+	height: 80vh;
+	width: calc(100%/3);
+	background-color: #B8E986;
+	float: left;
+
+}
+
+.image-box {
+	height: 4vh;
+	width: calc(100%/3);
+	background-color: #D0021B;
+	color: white;
+	font-size: 23px;
+	float: left;
+	text-align: center;
+	padding: 50px 0;
+
+}

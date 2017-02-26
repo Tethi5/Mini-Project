@@ -1,0 +1,33 @@
+.image {
+	height: 100px;
+	width: 100px;
+	background-color: coral;
+	float: left;
+}
+.another-image {
+	height: 100px;
+	width: 100px;
+	background-color: lightblue;
+	float: left;
+}
+
+.col-1 {
+	height: 100vh;
+	width: 33%;
+	background-color: orange;
+	float: left;
+	}
+
+.col-2 {
+	height: 100vh;
+	width: 33.3%;
+	background: white;
+	float: left;
+}
+
+.col-3 {
+	height: 100vh;
+	width: 33.3%;
+	background: green;
+	float: left;
+}
